@@ -1,7 +1,7 @@
 {
-  "name": "timezone",
+  "name": "ngrossmann-timezone",
   "version": "0.1.0",
-  "author": "time",
+  "author": "Niklas Grossmann",
   "summary": "Set system time-zone",
   "license": "Apache 2.0",
   "source": "git://github.com/time/puppet-module-zone.git",
